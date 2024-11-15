@@ -1,5 +1,3 @@
-Sure! Here's a simple README template you can use for your GitHub repository:
-
 # SecurePay
 
 SecurePay is a Node.js application for processing payments using Paystack and MongoDB. It provides a secure backend for handling payment transactions, with JWT authentication and data storage in a MongoDB database.
@@ -16,7 +14,7 @@ SecurePay is a Node.js application for processing payments using Paystack and Mo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kindrew/secure-pay.git
+   git clone https://github.com/aceslice/secure-pay.git
    ```
 
 2. Install dependencies:
